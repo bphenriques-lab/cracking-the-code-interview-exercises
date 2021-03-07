@@ -1,0 +1,7 @@
+# This should be on the global gitignore
+.ammonite/
+.idea/
+.metals/
+.vscode/
+.bsp/
+target/
